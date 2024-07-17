@@ -33,7 +33,7 @@
 
 .circle {
     list-style-type: circle;
-    text-decoration: underline; 
+    text-decoration: underline;
     text-underline-offset: 5px;
 }
 
