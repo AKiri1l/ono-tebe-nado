@@ -198,8 +198,14 @@
 }
 
 .lots__card-list-item {
+    display: block;
     position: relative;
     flex-grow: 1;
+}
+
+.card_link {
+    display: flex;
+    text-decoration: none;
 }
 
 .card {
