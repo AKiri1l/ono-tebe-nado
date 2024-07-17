@@ -34,7 +34,7 @@
 .circle {
     list-style-type: circle;
     text-decoration: underline; 
-    text-underline-offset: 5px
+    text-underline-offset: 5px;
 }
 
 .header_logo-image {
