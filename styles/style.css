@@ -27,7 +27,11 @@
 
 .header__links-list-item_no-bullit {
     list-style-type: none;
-    text-decoration: none !important;
+    text-decoration: none;
+}
+
+.header__links-list-item_no-bullit-link {
+    text-decoration: none;
 }
 
 .header_logo-image {
@@ -182,7 +186,7 @@
 .lots__card-list {
     display: flex;
     list-style: none;
-    gap:0 24px;
+    gap:24px 24px;
     flex-wrap: wrap;
 }
 
